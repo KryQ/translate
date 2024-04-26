@@ -1,6 +1,7 @@
 {
   "accountingEntry.cantAddNonPsyService": "Attention: In a case under KVG PSY (Tariff 581), no services outside of Tariff 581 can be recorded.",
   "accountingEntry.cantAddPsyService": "Attention: a 581 tariff service can only be added to a case running under KVG Psy (tariff 581).\n",
+"KKK.insurance": "kkk insurance",
   "agenda.BulkActions.delete": "Delete",
   "agenda.BulkActions.deleted": "Events have been successfully deleted",
   "agenda.BulkActions.deleteWithMeetings": "Delete connected meetings",
